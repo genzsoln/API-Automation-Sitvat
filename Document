@@ -1,0 +1,35 @@
+1-For adding libraries use below link:
+
+https://github.com/rest-assured/rest-assured/wiki/GettingStarted
+
+
+
+2- For checking https method request:
+
+https://reqres.in/
+
+
+HTTP request:
+
+1- GET
+For multiple users-
+response:       200        
+request:    https://reqres.in/api/users?page=2
+
+
+1- POST
+For multiple users-
+response:       201        
+request:    https://reqres.in/api/users
+
+
+1- PUT
+For multiple users-
+response:       200       
+request:    https://reqres.in/api/users
+
+
+1- DELETE
+For multiple users-
+response:       204        
+request:    https://reqres.in/api/users
